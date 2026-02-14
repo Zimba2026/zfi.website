@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: zfi.website 
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
+    headers:
+      - path: /.well-known/stellar.toml
+        name: Access-Control-Allow-Origin
+        value: "*"
+      - path: /.well-known/stellar.toml
+        name: Content-Type
+        value: "text/plain"
