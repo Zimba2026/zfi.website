@@ -1,0 +1,22 @@
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GBK2EY4GRD7ECXRUSP5DFJRHCNJEFXP2E4PCUYWS43YPAFA6IHGFX6W3"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Zimba Philanthropy Investments"
+ORG_URL="https://moedamoz-zfi.onrender.com"
+ORG_DESCRIPTION="ZFI is a digital asset created by Zimba Philanthropy Investments focused on security, resilience and international donation, promoting sustainable social and financial impact through blockchain technology."
+ORG_LOGO="https://raw.githubusercontent.com/Zimba2026/moedamoz-zfi/refs/heads/main/logo.png"
+
+
+[[CURRENCIES]]
+code="ZFI"
+issuer="GBK2EY4GRD7ECXRUSP5DFJRHCNJEFXP2E4PCUYWS43YPAFA6IHGFX6W3"
+display_decimals=2
+name="Zimba Philanthropy Investments"
+desc="Digital asset for security, resilience and international donation."
+image="https://raw.githubusercontent.com/Zimba2026/moedamoz-zfi/refs/heads/main/logo.png"
