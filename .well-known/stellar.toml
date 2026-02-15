@@ -10,7 +10,7 @@ ACCOUNTS=[
 ORG_NAME="Zimba Philanthropy Investments"
 ORG_URL="https://zfi-website.onrender.com"
 ORG_DESCRIPTION="ZFI is a digital asset created by Zimba Philanthropy Investments focused on security, resilience and international donation, promoting sustainable social and financial impact through blockchain technology."
-ORG_LOGO="https://raw.githubusercontent.com/Zimba2026/zfi.website/refs/heads/main/zfilogo.png"
+ORG_LOGO="https://raw.githubusercontent.com/Zimba2026/zfi.website/b8bc03dff1b3587d9aa34d91725875b4453f4642/logomz.png"
 
 
 [[CURRENCIES]]
@@ -19,4 +19,4 @@ issuer="GBK2EY4GRD7ECXRUSP5DFJRHCNJEFXP2E4PCUYWS43YPAFA6IHGFX6W3"
 display_decimals=2
 name="Zimba Philanthropy Investments"
 desc="Digital asset for security, resilience and international donation."
-image="https://raw.githubusercontent.com/Zimba2026/zfi.website/refs/heads/main/zfilogo.png"
+image="https://raw.githubusercontent.com/Zimba2026/zfi.website/b8bc03dff1b3587d9aa34d91725875b4453f4642/logomz.png"
