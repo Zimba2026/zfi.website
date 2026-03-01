@@ -14,7 +14,7 @@ ORG_LOGO="https://raw.githubusercontent.com/Zimba2026/zfi.website/b8bc03dff1b358
 
 
 [[CURRENCIES]]
-code="Zimba Philanthropy Investments"
+code="ZFI"
 issuer="GBK2EY4GRD7ECXRUSP5DFJRHCNJEFXP2E4PCUYWS43YPAFA6IHGFX6W3"
 display_decimals=2
 name="Zimba Philanthropy Investments"
